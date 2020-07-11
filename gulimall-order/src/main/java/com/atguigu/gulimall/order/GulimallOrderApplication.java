@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GulimallOrderApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(GulimallOrderApplication.class, args);
     }
 
